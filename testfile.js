@@ -1,0 +1,5 @@
+function doSomething() {
+  console.log('say hello');
+}
+
+// NO NEWLINE

@@ -1,0 +1,9 @@
+{
+  "name": "break-prettier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.2.1"
+  }
+}
